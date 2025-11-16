@@ -81,7 +81,6 @@ export default function Life() {
           {timeLeft.hours} <span className="text-sm">HOURS</span> &nbsp;
           {timeLeft.minutes} <span className="text-sm">MIN</span> &nbsp;
           {timeLeft.seconds} <span className="text-sm">SEC</span> &nbsp;
-          {timeLeft.ms} <span className="text-sm">MS</span>
         </div>
       </div>
     </div>
